@@ -7,8 +7,8 @@ This repository documents my journey of learning Java programming from scratch. 
 ## Topics Covered
 
 - [x] Introduction to Java
-- [ ] Java Features and Architecture
-- [ ] JVM, JRE, and JDK
+- [X] Java Features and Architecture
+- [X] JVM, JRE, and JDK
 - [ ] Basic Java Programs
 - [ ] Variables & Data Types
 - [ ] Type Casting
