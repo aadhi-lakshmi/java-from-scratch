@@ -6,7 +6,7 @@ This repository documents my journey of learning Java programming from scratch. 
 
 ## Topics Covered
 
-- [ ] Introduction to Java
+- [x] Introduction to Java
 - [ ] Java Features and Architecture
 - [ ] JVM, JRE, and JDK
 - [ ] Basic Java Programs
