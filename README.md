@@ -7,9 +7,9 @@ This repository documents my journey of learning Java programming from scratch. 
 ## Topics Covered
 
 - [x] Introduction to Java
-- [X] Java Features and Architecture
-- [X] JVM, JRE, and JDK
-- [ ] Basic Java Programs
+- [x] Java Features and Architecture
+- [x] JVM, JRE, and JDK
+- [x] Basic Java Programs
 - [ ] Variables & Data Types
 - [ ] Type Casting
 - [ ] Operators
@@ -32,7 +32,5 @@ This repository documents my journey of learning Java programming from scratch. 
 - [ ] Problem Solving
 - [ ] Practice Programs
 - [ ] Mini Projects
-◇ This repository will be updated regularly as I learn new concepts and improve my Java programming skills.
-◇ This repository will be updated regularly as I learn new concepts and improve my Java programming skills.
 
-*Check items off as I complete them — last updated: [date]*
+◇ This repository will be updated regularly as I learn new concepts and improve my Java programming skills.
