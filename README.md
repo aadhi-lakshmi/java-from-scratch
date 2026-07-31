@@ -10,8 +10,8 @@ This repository documents my journey of learning Java programming from scratch. 
 - [x] Java Features and Architecture
 - [x] JVM, JRE, and JDK
 - [x] Basic Java Programs
-- [ ] Variables & Data Types
-- [ ] Type Casting
+- [x] Variables & Data Types
+- [x] Type Casting
 - [ ] Operators
 - [ ] Input & Output
 - [ ] Conditional Statements
