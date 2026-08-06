@@ -12,7 +12,7 @@ This repository documents my journey of learning Java programming from scratch. 
 - [x] Basic Java Programs
 - [x] Variables & Data Types
 - [x] Type Casting
-- [ ] Operators
+- [x] Operators
 - [ ] Input & Output
 - [ ] Conditional Statements
 - [ ] Loops
